@@ -85,6 +85,33 @@ LOL|222|3
      return 0;
   }
 ```
+```bash
+   sudo su
+   echo "输出字符串"
+   cd "path"
+```
 
+```cpp
+   #include <iostream>
+   using namespace std;
 
+   int main(void)
+   {
+   	cout<<"输出字符串"<<endl;
+   }
+```
 
+```python
+   import os
+   def test();
+   	printf("this message is from test");
+
+   if__name__ == '__main__';
+   	test();
+```
+
+## 超链接
+
+[Github](https://github.com "跳转到Github")<br><br>
+[百度搜索](https://www.baidu.com "跳转到百度")<br><br>
+[Bilibili](https://www.bilibili.com "Bilibili")
