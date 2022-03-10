@@ -115,3 +115,13 @@ LOL|222|3
 [Github](https://github.com "跳转到Github")<br><br>
 [百度搜索](https://www.baidu.com "跳转到百度")<br><br>
 [Bilibili](https://www.bilibili.com "Bilibili")
+
+
+## 文章中插入图片
+
+**如果插入的图片是本地资源，无法在GitHub上显示，需要将本地图片上传并生成网络图片url地址**
+
+
+![wallpaper](C://Users//DELL//Desktop//wallpaper.jpg "本地壁纸")
+
+![wallpaper](https://s2.loli.net/2022/03/10/VdUCPEStQwa4ip7.jpg "本地壁纸")
