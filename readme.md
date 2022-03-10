@@ -72,7 +72,19 @@ Pubg|98|2
 LOL|222|3
 
 
+## 插入代码片段
 
+```c
+  #include <stdio.h>
+  #include <stdlib.h>
+  #inlcude <string.h>
+  //C语言代码
+  int main()
+  {
+     printf("testing code..\n");
+     return 0;
+  }
+```
 
 
 
